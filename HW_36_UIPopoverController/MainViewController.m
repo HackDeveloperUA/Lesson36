@@ -96,6 +96,8 @@
             }
         else {
 
+            
+            
         self.customEducationView = [self creatEducationCustomView];
         self.customEducationView.alpha = 0.f;
         [self.view addSubview:self.customEducationView];
